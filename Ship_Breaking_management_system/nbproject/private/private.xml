@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/app/Main.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/dao/MachineDAO.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/dao/PartDAO.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/dao/ExpenseDAO.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/dao/SalesEventDAO.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/dao/PartSaleDAO.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/model/Machine.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/model/Part.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/model/Expense.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/model/SalesEvent.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/model/PartSale.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/util/DBConnection.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/ui/MainFrame.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/service/SaleService.java</file>
+            <file>file:/E:/CODES_PROJS/KGN_Ship_Breakers/src/util/Database.java</file>
+        </group>
+    </open-files>
+</project-private>
